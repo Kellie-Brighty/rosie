@@ -96,6 +96,12 @@ h1, h2, h3, .logo, .logo-text, .btn {
     gap: 0.5rem;
 }
 .logo i { color: var(--secondary); }
+.logo-img {
+    height: 40px;
+    width: auto;
+    border-radius: 50%;
+    margin-right: 0.2rem;
+}
 
 /* Buttons */
 .btn {
